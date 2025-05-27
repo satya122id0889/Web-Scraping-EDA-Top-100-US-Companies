@@ -1,6 +1,3 @@
-Here’s a polished **README.md** for your GitHub project, optimized for recruiters and ATS while showcasing your data science skills effectively:
-
----
 
 # **📊 US Companies Data Analysis & Clustering**  
 *Web Scraping, EDA, and K-means Clustering for Strategic Insights*  
