@@ -54,17 +54,9 @@ jupyter notebook US_Companies_Analysis.ipynb
 - **Relevant to Swiggy**: Demonstrates skills in **data scraping** (e.g., restaurant/order data), **trend analysis** (growth metrics), and **segmentation** (like user behavior clustering).  
 - **ATS-Optimized**: Keywords like *"EDA," "K-means," "Pandas," "Python," "Data Visualization"* align with data science internship requirements.  
 
----
 
-## **📜 License**  
-MIT License - Free for academic/portfolio use.  
 
 ---
 
-### **📩 Contact**  
-**Satyabrata Satapathy**  
-[LinkedIn](https://linkedin.com/in/your-profile) | [LeetCode](https://leetcode.com/your-profile) | satya78550@gmail.com  
-
----
 
 This README highlights **technical depth**, **business relevance**, and **Swiggy-specific alignment** while keeping it concise. Adjust links/contact details as needed! Let me know if you'd like to emphasize any other aspects.
